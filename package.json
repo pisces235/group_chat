@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "main": "main.js",
+  "engines": {
+    "node": "16.5.0"
+  },
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@testing-library/jest-dom": "^5.14.1",
